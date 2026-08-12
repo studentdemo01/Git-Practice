@@ -7,3 +7,7 @@ def Sum(a,b):
     return c
 
 Sum(3,4)
+
+name = "Varun"
+print("Hello", name)
+print("Welcome to my Git practice project!")
